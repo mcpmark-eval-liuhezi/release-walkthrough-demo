@@ -9,3 +9,6 @@ Our delivery stages:
 - [ ] Review it
 - [ ] Merge
 - [ ] Verify
+
+## Verification log
+The release walkthrough flow was exercised end to end: a branch was cut, a pull request was opened, the changes were reviewed, the pull request was merged, and the result was verified on the default branch.
